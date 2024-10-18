@@ -1,8 +1,5 @@
 # racunari_i_programiranje_2024
 
-OBAVJEŠTENJE: Predavanja predviđena za četvrtak u 15h se neće održati ove nedelje. Termin nadoknade će biti naknadno određen. Vježbe će se održati po rasporedu.
-
-
 ------------------------------------------------------------------------------------------
 
 Potrebno je da studenti imaju alat codeblocks na svojim računarima za sljedeći čas.
