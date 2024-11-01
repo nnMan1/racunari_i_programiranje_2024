@@ -1,0 +1,113 @@
+1. Nacrtati algoritam i napisati program pomocu koga
+se iz zadatog intervala odredjuje broj sa najvise prostih
+djelioca. Ako ih ima vise, uzeti najmanji.
+
+2. Nacrtati algoritam i napisati program pomocu koga se
+stampaju svi brojevi oblika AA koji se mogu razloziti na sumu 
+kvadrata niza prirodnih brojeva ciji se susjedni clanovi
+razlikuju za konstantu.
+
+Primjer 
+66 = 1^2 + 4^2 + 7^2 (clanovi se razlikuju za 3, 
+sabirci su kvadrati prirodnih brojeva)
+Napomena : prvi sabirak ne mora biti jedinica 
+(to znaci da AA ne mora biti = 1^2 + (1+d)^2 + itd.,
+gdje je d konstanta za koju se razlikuju sabirci
+
+3. Nacrtati algoritam i napisati program pomocu koga se	
+iz intervala [n,m] odredjuje broj koji se na najvise nacina
+moze predstaviti kao zbir kvadrata dva prirodna broja.
+
+4. Nacrtati algoritam i napisati program pomocu koga se
+za unijeto n stampa prvih n super slozenih brojeva. Broj je
+superslozen ako ima vise djelioca nego bilo koji slozeni broj
+manji od njega.
+
+5. Nacrtati algoritam i napisati program za koji se iz intervala
+[n, m] nalazi najveci broj koji je prost, i ciji je zbir cifara
+prost broj.
+
+6. Nacrtati algoritam i napisati program pomocu koga se zadati 
+broj zapisuje kao proizvod prostih cinilaca.
+
+7. Napisati program pomocu koga se zadati niz preuredjuje
+tako da ne sadrzi ni jedan troclani monotoni podniz.
+
+8. Napisati program pomocu koga se zadati niz prirodnih 
+brojeva razlaze na dva niza - u prvi ulaze clanovi koji 
+nemaju slozenih djelioca, a u drugi ostali.
+
+9. Napisati program pomocu koga se nalazi najduzi zajednicki
+podniz dva zadata niza.
+
+Zadatak sa casa koji bi bio dobar kandidat za kol.
+
+10. (Nacrtati algoritam i) Napisati program pomocu koga se
+zadati niz brojeva razdvaja na dva niza - jedan sadrzi jedno-
+struke elemente, a drugi visestruke.
+
+Primjer
+ulazni niz: 2, 3, 8, 5, 3, 1, 4, 8, 6, 3, 10
+niz 1: 2, 5, 1, 4, 6, 10
+niz 2: 3, 8
+
+Zadaci sa casova
+
+11. a) Napisati program pomocu koga se za unijeti datum
+stampa sledeci dan (prethodni dan, 7 dana unaprijed..)
+	b) Napisati program pomocu koga se za unijeti broj n
+i datum stampa datum koji slijedi poslije n dana od unijetog.
+Primjer
+05.03.1955. i 20 -> 25.03.1955.
+23.04.2003. i 100 -> 01.08.2003.
+23.04.2003. i 1000 -> 17.01.2006.
+08.11.1998 i 983 -> 18.07.2001.
+
+12. Nacrtati algoritam i napisati program pomocu koga se
+iz unijetog niza stampa drugi po velicini i njegov broj ponavljanja.
+
+13. Napisati program pomocu koga se za prirodan broj N stampaju sve
+permutacije skupa (1,2,3...,n) u leksikografskom poretku. Leksikografski
+poredak je poredak u kome je svaka permutacija veca od svake prethodne,
+ali manja od svake sledece (permutacije su poredjanje u rastucem poretku).
+
+14. Napisati program pomocu koga se za zadati cetvorocifreni broj, kojem
+cifre nisu iste, formira novi broj oduzimanjem dva broja:
+prvi broj je sa ciframa polaznog broja u opadacujem poretku,
+a drugi broj je sa ciframa polaznog broja u rastucem poretku.
+Postupak se ponavlja sve dok se ne ponovi isti broj dva puta uzastopno.
+(Napomena: "izguglati" 6174 theorem).
+
+Primjer
+
+2709
+9720 - 279 = 9441
+9441 - 1449 = 7992 ...
+
+15. Napisati program pomogu koga se stampaju sva rjesenja problema sa osam kraljica.
+Problem sa osam kraljica je problem u sahu, gdje treba na 8x8 sahovskoj tabli 
+postaviti 8 kraljica tako da se medjusobno ne napadaju. 
+
+16. Napisati program koji za unijeti prirodan broj n 
+ispisuje i broji sve n-to cifrene brojeve koji ne pocinju 0 ili 5
+i dobijaju se kretanjem sahovskog konja po tastaturi. 
+
+Primjer
+
+Oblik tastature:
+
+1 2 3
+4 5 6
+7 8 9 
+  0
+
+Za unijeti broj 5, neki od brojeva koji
+treba stampati su:
+16040
+16043
+16049
+16060
+16067
+16160
+16161 
+16167 itd.
