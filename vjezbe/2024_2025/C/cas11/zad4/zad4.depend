@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733160845 source:/home/velibor/Desktop/c_cas10/zad4/main.c
+	<stdio.h>
+	<stdlib.h>
+

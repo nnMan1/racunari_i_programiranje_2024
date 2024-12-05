@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731947748 source:/home/velibor/MEGAsync/Posao/RIP/vjezbe/2024_2025/C/cas9/zad2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
