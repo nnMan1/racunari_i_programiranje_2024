@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732800451 source:c:\users\pc\desktop\rip2024\cas10\zad4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1732800325 c:\users\pc\desktop\rip2024\cas10\zad4\my_lib.h
+	<math.h>
+
+1732800390 source:c:\users\pc\desktop\rip2024\cas10\zad4\my_lib.c
+	"my_lib.h"
+
