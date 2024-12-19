@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734608311 source:c:\users\pc\desktop\rip2024\cas13\zad1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
