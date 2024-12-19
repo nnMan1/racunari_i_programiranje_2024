@@ -1,0 +1,18 @@
+1. program pomocu koga se u zadatom nizu nalazi najduzi simetricni podniz. Ako ima vise njih sa istom maks duzinom uzeti prvi
+2. Napisati program koji stampa sve permutacije skupa od n elemenata
+3. Napisati program koji odredjuje na koliko nacina se moze 8 dama rasporediti na tablu dimenzija 8x8 tako da se one ne napadaju
+4. Napisati program koji nalazi jedan raspored N topova na tabli dimenzija NxN tako da se oni ne napadaju
+5. Provjeriti da li je niz testerast
+6. Napisati program koji nalazi vrijednost 2^100. Napomena 2^100 ne staje u tip int
+7. Napisati program koji za unijeti prirodan broj n 
+ispisuje i broji sve n-to cifrene brojeve koji ne pocinju 0 ili 5
+i dobijaju se kretanjem sahovskog konja po tastaturi. 
+
+Primjer
+
+Oblik tastature:
+
+1 2 3
+4 5 6
+7 8 9 
+  0
